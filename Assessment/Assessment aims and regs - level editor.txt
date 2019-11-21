@@ -1,0 +1,47 @@
+Due: Friday 17th January 2020 3pm
+
+While Moodle does not require a set naming convention for any files uploaded, please ensure your submission is given a meaningful file name,
+with no special characters (e.g. commas, speech marks, question marks, etc.).
+
+The programming section of your assignment should be submitted via GitHub (invitation link: https://classroom.github.com/a/NoHve_0y)
+Both sections of this assignment must be submitted or it will count as a partial submission.
+
+The requirements for the assessment 
+For this assessment you are to create a level editor, developed in WPF/Winforms to run on the .NET platform.
+This tool should be able to load multiple tiles, and package them into a single level,
+as well as reload this level and give the user UV coordinates whilst using the editor.
+You should also write a brief set of instructions for using your level editor (around 100 words).
+
+For higher marks, the editor should include metadata in XML, JSON, or a similar industry-standard format, as part of its saved level.
+You will make use of the programming techniques and practices that have been described during module lectures
+to appropriately structure and format your code so that it is readable, well-engineered and object-oriented.
+
+Your code must adhere to the programming standards as they are outlined in the coding standards document for this module.
+
+Assessment criteria 
+
+The grade table on the following page is a guide to the level of practical content required for the assignments.
+You need to achieve at least 40% to pass this assessment.
+
+To achieve 40+
+
+Level of programming meets minimum requirements of assessment in that the project is able to be compiled and run without error.
+ Project is functionally complete with majority of features implemented.
+
+To achieve 50+
+
+Meets the requirements for 40+, and additionally code meets coding standards,
+and contains the requirements as outlined in the evidence table found in this document.
+Project is feature complete with good program structure being evident. Demonstration of good programming practice is present in source code.
+
+To achieve 60+
+
+Meets the requirements for 50+, and additionally shows effort has been made to make sure code is as efficient and well-structured as possible
+with thorough commenting throughout. Advanced features have been attempted (e.g. XML or JSON output, C++ code generation).
+Sound knowledge of programming principles is demonstrated in source code.
+
+To achieve 70+
+
+Meets the requirements for 60+, and additionally exceeds the requirements outlined in the evidence table in this document.
+Project contains advanced features (e.g. XML or JSON output, C++ code generation) or extra features.
+Code is well written, well structured, and efficient, good knowledge of programming principles is demonstrated in source code. 

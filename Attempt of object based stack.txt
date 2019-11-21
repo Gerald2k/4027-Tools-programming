@@ -1,0 +1,57 @@
+using System;
+
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*int arraysize = 1;
+            int userChoice;
+            Console.WriteLine("Please choose 1. Push or 2. Pop:");
+            userChoice = Convert.ToInt32(Console.ReadLine());
+
+            if (userChoice == 1)
+            {
+                push(arraysize);
+            }
+            else if (userChoice == 2)
+            {
+                pop();
+            }
+            else
+            {
+
+            }
+
+
+
+
+        }
+
+        static void push(int arraysize)
+        {
+            object[] newarray = new object[arraysize];
+            object[] temparray = new object[arraysize];
+            object userInput;
+
+            Console.WriteLine("Please input the data to push.");
+            userInput = Convert.ToInt32(Console.ReadLine());
+
+            temparray = newarray;
+            arraysize++;
+            newarray = new object[arraysize];
+            newarray = temparray;
+            Console.WriteLine(newarray.ToString());
+        }
+
+        static object pop()
+        {
+            object userInput;
+            Console.WriteLine("Please input the data to pop.");
+            userInput = Convert.ToInt32(Console.ReadLine());
+            return 0;
+        }*/
+        }
+    }
+}
