@@ -1,0 +1,11 @@
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\bin\Debug\netcoreapp2.1\Linq Example.deps.json
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\bin\Debug\netcoreapp2.1\Linq Example.runtimeconfig.json
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\bin\Debug\netcoreapp2.1\Linq Example.runtimeconfig.dev.json
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\bin\Debug\netcoreapp2.1\Linq Example.dll
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\bin\Debug\netcoreapp2.1\Linq Example.pdb
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.csprojAssemblyReference.cache
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.csproj.CoreCompileInputs.cache
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.AssemblyInfoInputs.cache
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.AssemblyInfo.cs
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.dll
+C:\Users\s1903319\source\repos\Linq example\Linq Example\Linq Example\obj\Debug\netcoreapp2.1\Linq Example.pdb
